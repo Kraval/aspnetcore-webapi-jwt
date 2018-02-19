@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace aspnetcore_webapi_jwt.Controllers
+namespace AspNetCoreWebApiJwt.Controllers
 {
     [Route("api/[controller]")]
     public class ValuesController : Controller

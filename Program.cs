@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace aspnetcore_webapi_jwt
+namespace AspNetCoreWebApiJwt
 {
     public class Program
     {
